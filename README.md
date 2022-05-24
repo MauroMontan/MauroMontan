@@ -2,11 +2,8 @@
 
 <h3 align="center">A a newbie full stack developer from México 🇲🇽 </h3>
 
-
- <h2 align="right" >Github stats</h2>
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
+  <h3 align="right" >Github stats</h3>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=MauroMontan&show_icons=true&theme=gruvbox" />
 </a>
 
@@ -21,7 +18,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3  align="left">Languages and Tools:</h3>
 <p align="left" >
 
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width="45" height="45"/> </a>
