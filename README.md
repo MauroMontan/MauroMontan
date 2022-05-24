@@ -3,6 +3,14 @@
 <h3 align="center">A a newbie full stack developer from México 🇲🇽 </h3>
 
 
+ <h2 align="right" >Github stats</h2>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MauroMontan&show_icons=true&theme=gruvbox" />
+</a>
+
+
 - 💬 Ask me about **Vue js** and
 
 - 🌱 I am learning Flutter and nest js
@@ -10,6 +18,7 @@
 - 📫 Reach me at **mauroanastacio@outlook.es**
 
 - ⚡ One pice fan :D
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,7 +44,4 @@
    <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"  width="45" height="45"/> </a>
    <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  width="45" height="45"/> </a>
  </p>
- ## Github stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=MauroMontan&show_icons=true&theme=gruvbox" />
-</a>
+ 
