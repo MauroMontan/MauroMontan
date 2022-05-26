@@ -8,9 +8,9 @@
 </a>
 
 
-- 💬 Ask me about **Vue js** and
+- 💬 Ask me about **Vue js**. 
 
-- 🌱 I am learning Flutter and nest js
+- 🌱 I am currently learning Flutter.
 
 - 📫 Reach me at **mauroanastacio@outlook.es**
 
