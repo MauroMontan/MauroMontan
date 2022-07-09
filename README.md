@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋, I'm Mauro Montaño </h2>
+<h2 align="left">Hi, I'm Mauro Montaño </h2>
 
-<h4 align="center">A a newbie full stack developer from México 🇲🇽 </h4>
+<h4 align="left">A a newbie full stack developer from México 🇲🇽 </h4>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <h3 align="right" >Github stats</h3>
@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Vue js**. 
 
-- 🌱 I am currently learning Flutter.
+- 🌱 I am currently learning Flutter and nestjs
 
 - 📫 Reach me at **mauroanastacio@outlook.es**
 
@@ -26,7 +26,6 @@
    <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"  width="45" height="45"/> </a>
    <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"  width="45" height="45"/> </a>
    <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="45" height="45"/> </a>
-   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="45" height="45"/> </a>
    <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"  width="45" height="45"/> </a>
    <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width="45" height="45"/> </a>
    <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="45" height="45"/> </a>
@@ -34,6 +33,5 @@
    <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"  width="45" height="45"/> </a>
    <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="45" height="45"/> </a>
    <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"  width="45" height="45"/> </a>
-   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  width="45" height="45"/> </a>
  </p>
  
