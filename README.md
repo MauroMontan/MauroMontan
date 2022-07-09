@@ -1,6 +1,6 @@
-<h3 align="center">Hi 👋, I'm Mauro Montaño </h3>
+<h2 align="left">Hi 👋, I'm Mauro Montaño </h2>
 
-<h3 align="center">A a newbie full stack developer from México 🇲🇽 </h3>
+<h4 align="center">A a newbie full stack developer from México 🇲🇽 </h4>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <h3 align="right" >Github stats</h3>
@@ -18,7 +18,7 @@
 
 
 
-<h3  align="left">Languages and Tools:</h3>
+<h3  align="left">Favourite languages and tools:</h3>
 <p align="left" >
 
   <a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"  width="45" height="45"/> </a>
