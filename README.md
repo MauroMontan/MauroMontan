@@ -1,6 +1,6 @@
 <h2 align="left">Hi, I'm Mauro Montaño </h2>
 
-<h4 align="left">A a newbie full stack developer from México 🇲🇽 </h4>
+<h4 align="left">A full stack developer from México 🇲🇽 </h4>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <h3 align="right" >Github stats</h3>
